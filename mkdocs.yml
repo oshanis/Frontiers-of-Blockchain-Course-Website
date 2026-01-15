@@ -1,0 +1,87 @@
+site_name: Decentralized AI @ RPI
+site_description: CSCI 4190/CSCI 6190 - Decentralized AI Course Website
+site_author: Oshani Seneviratne
+
+# Copyright
+copyright: Copyright &copy; 2026 Oshani Seneviratne
+
+# Theme Configuration
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+# Navigation
+nav:
+  - Home: index.md
+  - Course Information:
+    - Overview: course-info/overview.md
+    - Schedule: course-info/schedule.md
+    - Resources: course-info/resources.md
+  - Assignments: assignments.md
+  - Lectures: lectures.md
+  - Contact: contact.md
+
+# Extra
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/DecentralizedAI-Course-Website
+  version:
+    provider: mike
+
+# Markdown Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
