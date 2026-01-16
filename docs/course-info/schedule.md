@@ -4,7 +4,7 @@
 
 **Regular Class Sessions:**
 - **Days:** Tuesday & Friday
-- **Time:** 10:00am - 11:50am ET
+- **Time:** 2:00pm - 3:50pm ET
 - **Duration:** 1 hour 50 minutes per session
 
 ## Office Hours

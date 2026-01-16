@@ -13,7 +13,7 @@ Through lectures and a substantial group project, students will design and evalu
 ---
 
 !!! info "Course Syllabus"
-    **Download the complete course syllabus:** [:material-file-pdf-box: Decentralized-AI-Syllabus-Spring26.pdf](DecentralizedAI-Course-Website/Decentralized-AI-Syllabus-Spring26.pdf)
+    **Download the complete course syllabus:** [:material-file-pdf-box: Frontiers-of-Blockchain-Research-Syllabus-Spring26.pdf](Frontiers-of-Blockchain-Course-Website/Frontiers-of-Blockchain-Research-Syllabus-Spring26.pdf)
     
     The syllabus contains detailed information about course policies, grading, schedule, and requirements.
 

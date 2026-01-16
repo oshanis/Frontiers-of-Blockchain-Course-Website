@@ -4,7 +4,7 @@
 
 **Instructor Name:** [Oshani Seneviratne](http://oshani.info)  
 **Email:** senevo@rpi.edu  
-**Office Location:** AE 216 
+**Office Location:** Lally 306 
 
 ## Teaching Assistant
 

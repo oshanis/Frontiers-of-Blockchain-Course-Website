@@ -1,6 +1,6 @@
 # Decentralized AI Course Website
 
-This is the course website for **CSCI 4190/CSCI 6190 - Decentralized AI** built with MkDocs and the Material theme.
+This is the course website for **CSCI 4962/CSCI 6962 - Frontiers of Blockchain Research** built with MkDocs and the Material theme.
 
 ## Quick Start
 
@@ -25,7 +25,7 @@ sudo apt install python3.12-venv python3-pip
 
 1. **Navigate to the project directory:**
    ```bash
-   cd DecentralizedAI-Course-Website
+   cd Frontiers-of-Blockchain-Research-Course-Website
    ```
 
 2. **Run the setup script:**

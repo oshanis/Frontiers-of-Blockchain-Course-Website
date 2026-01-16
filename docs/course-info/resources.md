@@ -4,36 +4,12 @@
 
 ### Course Management
 
-- **Submitty:** [https://submitty.cs.rpl.edu/courses/s26/csci4190](https://submitty.cs.rpl.edu/courses/s26/csci4190)
+- **Submitty:** [https://submitty.cs.rpi.edu/courses/s26/csci4962](https://submitty.cs.rpi.edu/courses/s26/csci4962)
 
 ### Communication
 
 - **Announcements:** Check Submitty and the WebEx Space regularly for important announcements
 - **Email:** Contact instructor during office hours or via email for private matters
-
-## Software and Tools
-
-### Recommended Libraries
-
-```python
-# Machine Learning
-- PyTorch or TensorFlow
-- NumPy, Pandas
-- Scikit-learn
-
-# Federated Learning
-- PySyft
-- TensorFlow Federated
-- Flower
-
-# Blockchain
-- Web3.py
-- Ethereum development tools
-```
-
-### Development Environments
-
-- **VS Code** (recommended)
 
 ---
 
