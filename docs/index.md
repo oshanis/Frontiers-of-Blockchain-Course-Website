@@ -1,8 +1,8 @@
-# Welcome to Decentralized AI
+# Welcome to Frontiers in Blockchain Research
 
 ## Course Description
 
-**CSCI 4190/CSCI 6190 - Decentralized AI**
+**CSCI 4962/CSCI 6962 - Frontiers in Blockchain Research**
 
 This course explores the design, implementation, and governance of Decentralized Artificial Intelligence (AI) systems that operate without centralized control over data, compute, or decision-making. As modern AI increasingly relies on centralized data monopolies and opaque infrastructures, this course examines alternative architectures that emphasize data sovereignty, privacy preservation, verifiable computation, and permissionless innovation.
 
@@ -51,7 +51,7 @@ Through lectures and a substantial group project, students will design and evalu
 
     Access assignments, grades, and course announcements
 
-    [:octicons-arrow-right-24: Go to Submitty](https://submitty.cs.rpl.edu/courses/s26/csci4190)
+    [:octicons-arrow-right-24: Go to Submitty](https://submitty.cs.rpi.edu/courses/s26/csci4962)
 
 </div>
 

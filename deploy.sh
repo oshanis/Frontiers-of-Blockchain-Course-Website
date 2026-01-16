@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to build and deploy the MkDocs site to parent directory
-# This deploys to: /academics/courses/spring26/csci4190/
+# This deploys to: /academics/courses/spring26/csci4962/
 
 set -e  # Exit on error
 
@@ -43,7 +43,7 @@ echo ""
 echo "✅ Deployment complete!"
 echo ""
 echo "The website should now be accessible at:"
-echo "https://cs.rpi.edu/academics/courses/spring26/csci4190/"
+echo "https://cs.rpi.edu/academics/courses/spring26/csci4962/"
 echo ""
 echo "Note: Source files in DecentralizedAI-Course-Website/ are preserved."
 echo "      Only the built site files have been copied to the parent directory."

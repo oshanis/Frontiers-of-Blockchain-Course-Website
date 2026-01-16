@@ -35,7 +35,7 @@ Use for:
 - Urgent issues that require immediate attention
 
 **Email Guidelines:**
-- Include "[CSCI 4190/6190]" in the subject line
+- Include "[CSCI 4962/6962]" in the subject line
 - Be specific and concise
 - Allow 24-48 hours for a response (excluding weekends)
 

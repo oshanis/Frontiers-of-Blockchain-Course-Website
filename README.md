@@ -1,4 +1,4 @@
-# Decentralized AI Course Website
+# Frontiers in Blockchain Research Course Website
 
 This is the course website for **CSCI 4962/CSCI 6962 - Frontiers of Blockchain Research** built with MkDocs and the Material theme.
 
@@ -102,7 +102,7 @@ This will build the site and push it to the `gh-pages` branch of your repository
 
 ### RPI Web Server Deployment
 
-To deploy to the RPI web server at `https://cs.rpi.edu/academics/courses/spring26/csci4190/`:
+To deploy to the RPI web server at `https://cs.rpi.edu/academics/courses/spring26/csci4962/`:
 
 **Option 1: Automatic Deployment (Recommended)**
 

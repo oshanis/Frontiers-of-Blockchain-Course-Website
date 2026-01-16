@@ -1,5 +1,5 @@
 #!/bin/bash
-# Setup script for Decentralized AI Course Website
+# Setup script for Frontiers in Blockchain Research Course Website
 
 set -e  # Exit on error
 
