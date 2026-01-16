@@ -8,8 +8,8 @@ Lectures are held **Tuesday and Friday, 2:00pm - 3:50pm ET**.
     This is a tentative calendar, and it is subject to change.
 
 ### Week 1: 
-- **Jan 13:** [Course Introduction](../Frontiers-of-Blockchain-Course-Website//lectures/01-Course-Introduction.pdf) :material-file-pdf-box:
-- **Jan 16:** 
+- **Jan 13:** [Course Introduction](../Frontiers-of-Blockchain-Course-Website/lectures/01-Course-Introduction.pdf) :material-file-pdf-box:
+- **Jan 16:** [How to read a paper & Bitcoin](../Frontiers-of-Blockchain-Course-Website/lectures/02-How-to-read-a-paper-and-Bitcoin.pdf) :material-file-pdf-box:
 
 ### Week 2: 
 - **(03) Jan 20:** 
