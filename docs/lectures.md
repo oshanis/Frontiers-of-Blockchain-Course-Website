@@ -13,23 +13,23 @@ Lectures are held **Tuesday and Friday, 2:00pm - 3:50pm ET**.
 
 ### Week 2: 
 - **(03) Jan 20:** [Bitcoin & How to timestamp a document](../Frontiers-of-Blockchain-Course-Website/lectures/03-Time-stamping-Documents.pdf) :material-file-pdf-box:
-- **(04) Jan 23:** 
+- **(04) Jan 23:** [Guest Lecture by Inwon Kang: Blockchain Interoperability & Deciphering Crypto Twitter](../Frontiers-of-Blockchain-Course-Website/lectures/04-Blockchain-Interoperability-Landscape-and-Crypto-Twitter.pdf) :material-file-pdf-box:
 
 ### Week 3: 
-- **(05) Jan 27:** 
-- **(06) Jan 30:** 
+- **(05) Jan 27:** [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol]
+- **(06) Jan 30:** [Algorand: Scaling Byzantine Agreements for Cryptocurrencies]
 
 ### Week 4: 
-- **(07) Feb 03:** 
-- **(08) Feb 06:** 
+- **(07) Feb 03:** [On the Security and Performance of Proof-of-Work Blockchains]
+- **(08) Feb 06:** [Ethereum Whitepaper]
 
 ### Week 5: 
-- **(09) Feb 10:** 
-- **(10) Feb 13:** 
+- **(09) Feb 10:** [Guest Lecture by Maruf Ahmed Mridul]
+- **(10) Feb 13:** [Swarm Learning]
 
 ### Week 6: 
 - **Feb 17:** No class (Monday Schedule)
-- **(11) Feb 20:** 
+- **(11) Feb 20:** [SoK: Blockchain Governance]
 
 ### Week 7: 
 - **(12) Feb 24:** 
